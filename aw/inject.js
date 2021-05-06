@@ -1,1 +1,1 @@
-console.log(unityInstance.SendMessage)
+console.log($)
